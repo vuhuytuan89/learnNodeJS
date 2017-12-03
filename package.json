@@ -1,0 +1,11 @@
+{
+    "name": "serverExpress",
+    "version": "0.0.1",
+    "private": "true",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "ejs": "^2.5.7",
+        "express": "*",
+        "multer": "^1.3.0"
+    }
+}
